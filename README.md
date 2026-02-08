@@ -20,4 +20,15 @@ The setup installs (at minimum):
 
 Additional packages can be added easily in the script.
 
+## Keybinds
+
+Super + T -> Terminal
+Super + W → close window
+Super + M → exit hyprland
+Super + E → file manager
+Super + V → floating
+Super + Space → menu (rofi)
+Super + P → pseudo-tiling
+Super + J → split
+
 
